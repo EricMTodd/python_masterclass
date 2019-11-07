@@ -2,8 +2,10 @@
 
 https://www.udemy.com/course/python-the-complete-python-developer-course/
 
-### End of video #27
+### Watching video #28. Storing Items In Variables
 
-### This is all the notes and information gathered during the length of this course that I find I must write down in order to remember it more fully.
+### Current timestamp - 00:00:00
 
-Triple quotes for strings will allow for easy usage of quotes within a string.
+## Notes
+
+Triple quotes are an easy way to output complete strings with multiple types of quotation marks and even split them up onto multiple lines.
