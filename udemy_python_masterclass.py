@@ -8,25 +8,50 @@
 
 # The following are ways to modify terminal output
 
-# \n after a string will print everything after it on a new line
-splitString = ("This string\nhas been\nsplit over\nseveral lines")
-print(splitString)
+# # \n after a string will print everything after it on a new line
+# splitString = ("This string\nhas been\nsplit over\nseveral lines")
+# print(splitString)
+# print()
 
-# \t after a string will input a tabbed space
-tabbedString = "1\t2\t3\t4\t5\t"
-print(tabbedString)
+# # \t after a string will input a tabbed space
+# tabbedString = "1\t2\t3\t4\t5\t"
+# print(tabbedString)
+# print()
 
-# These are methods for including multiple quotation marks when printing strings.
-print('The pet shop owner said "No, no, he\'s uh... He\'s resting"')
-print("The pet shop owner said \"No, no, he's uh... He's resting\"")
+# # These are methods for including multiple quotation marks when printing strings.
+# print('The pet shop owner said "No, no, he\'s uh... He\'s resting"')
+# print("The pet shop owner said \"No, no, he's uh... He's resting\"")
+# print()
 
-# Triple quotes are a method of splitting strings onto new lines easily as well as including multiple kinds of quotatin marks within the string to be printed.
-anotherSplitString = """This string
-has been
-split over
-several lines"""
+# # Triple quotes are a method of splitting strings onto new lines easily as well as including multiple kinds of quotatin marks within the string to be printed.
+# anotherSplitString = """This string
+# has been
+# split over
+# several lines"""
 
-print(anotherSplitString)
+# print(anotherSplitString)
+# print()
 
-print("""The pet shop ownder said "No, no, he's uh... He's resting." """)
-print('''The pet shop ownder said "No, no, he's uh... He's resting." ''')
+# print("""The pet shop ownder said "No, no, he's uh... He's resting." """)
+# print('''The pet shop ownder said "No, no, he's uh... He's resting." ''')
+# print()
+
+
+# Variable names must always start with either a letter or an underscore.
+
+# Truthy
+greeting = "Bruce"
+_myName = "Eric"
+Eric93 = "Good"
+Eric_Was_25 = "Hello"
+Greeting = "There"
+
+# Falsey
+# 1Eric = "Bad"
+
+print(Eric_Was_25 + ' ' + greeting)
+
+age = 24
+print(age)
+
+print(greeting + age)
