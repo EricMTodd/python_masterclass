@@ -91,3 +91,9 @@
 # # Use brackets just like you would in mathematics to modify operator precedence.
 # # This is a similar operation to the first one, but instead evaluates to 12.0
 # print((((a + b) / 3) - 4) * 12)
+
+# # Challenge successfully passed on the first try!
+# bun_price = 2.40
+# money = 15
+# total_buns = money // bun_price
+# print(total_buns)

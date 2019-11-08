@@ -2,7 +2,7 @@
 
 https://www.udemy.com/course/python-the-complete-python-developer-course/
 
-### Watching video #28. Storing Items In Variables
+### Watching video #29. Variables Part 2
 
 ### Current timestamp - 00:00:00
 
