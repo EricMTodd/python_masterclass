@@ -4,7 +4,7 @@ https://www.udemy.com/course/python-the-complete-python-developer-course/
 
 ### Watching video #28. Storing Items In Variables
 
-### Current timestamp - 00:07:00
+### Current timestamp - 00:00:00
 
 ## Notes
 

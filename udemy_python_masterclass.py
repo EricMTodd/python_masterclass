@@ -37,21 +37,57 @@
 # print()
 
 
-# Variable names must always start with either a letter or an underscore.
+# # Variable names must always start with either a letter or an underscore.
 
-# Truthy
-greeting = "Bruce"
-_myName = "Eric"
-Eric93 = "Good"
-Eric_Was_25 = "Hello"
-Greeting = "There"
+# # Truthy
+# greeting = "Bruce"
+# _myName = "Eric"
+# Eric93 = "Good"
+# Eric_Was_25 = "Hello"
+# Greeting = "There"
 
-# Falsey
-# 1Eric = "Bad"
+# # Falsey
+# # 1Eric = "Bad"
 
-print(Eric_Was_25 + ' ' + greeting)
+# print(Eric_Was_25 + ' ' + greeting)
 
-age = 24
-print(age)
+# age = 24
+# print(age)
 
-print(greeting + age)
+# print(greeting + age)
+
+# # An expression is anything that can be calculated to return a value.
+# # Numeric and sequence types
+# # Strings are sequence types
+# # Integers are whole numbers
+# # Floats are decimal or fractional numbers
+# a = 12
+# b = 3
+# print(a + b)
+# print(a - b)
+# print(a * b)
+# print(a / b)  # This returns a float
+# print(a // b)  # This returns a whole number
+# print(a % b)
+
+# # This will return the numbers 0 - 3
+# for i in range(1, 4):
+#     print(i)
+
+# # This will throw an error because it is trying to loop through the range using a float, which python cannot do.
+# for i in range(1, a/b):
+#     print(i)
+
+# # This will return the numbers 0 - 3 because the operation returns the whole number value of four, which is equivalent to the first loop.
+# for i in range(1, a//b):
+#     print(i)
+
+
+# # Remember that operator precedence, or order of operations is always evaluated in Python.
+# print(a + b / 3 - 4 * 12)  # Evaluates to -35.0
+# print(8 / 2 * 3)  # Evaluates to 12.0
+# print(8 * 3 / 2)  # Evaluates to 12.0
+
+# # Use brackets just like you would in mathematics to modify operator precedence.
+# # This is a similar operation to the first one, but instead evaluates to 12.0
+# print((((a + b) / 3) - 4) * 12)
