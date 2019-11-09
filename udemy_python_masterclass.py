@@ -61,8 +61,8 @@
 # # Strings are sequence types
 # # Integers are whole numbers
 # # Floats are decimal or fractional numbers
-# a = 12
-# b = 3
+a = 12
+b = 3
 # print(a + b)
 # print(a - b)
 # print(a * b)
@@ -97,3 +97,19 @@
 # money = 15
 # total_buns = money // bun_price
 # print(total_buns)
+
+c = a + b
+d = c / 3
+e = d - 4
+print(e * 12)
+
+parrot = "Norwegian Blue"
+print(parrot)
+print(parrot[0])  # This syntax will print the specified index
+print(parrot[3])
+print(parrot[-1])
+# This syntax tells where to start printing and how many characters to print from the starting index. In this case it will print 6 total characters starting from index 0. Print everything from index 0 up to, but not including index 6.
+print(parrot[0:6])
+print(parrot[:6])  # Prints from 0 up to but not including 6.
+print(parrot[6:])  # Prints from 6 to the end of the string.
+print(parrot[-4:-2])

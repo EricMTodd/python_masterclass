@@ -4,7 +4,7 @@ https://www.udemy.com/course/python-the-complete-python-developer-course/
 
 ### Watching video #29. Variables Part 2
 
-### Current timestamp - 00:00:00
+### Current timestamp - 00:07:05
 
 ## Notes
 
