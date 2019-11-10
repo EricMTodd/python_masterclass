@@ -112,4 +112,26 @@ print(parrot[-1])
 print(parrot[0:6])
 print(parrot[:6])  # Prints from 0 up to but not including 6.
 print(parrot[6:])  # Prints from 6 to the end of the string.
-print(parrot[-4:-2])
+print(parrot[-4:-2])  # Prints Bl in this case.
+# Start an index zero and print everything up to but not including index six in steps of two. This will print every other letter.
+print(parrot[0:6:2])
+# Start an index zero and print everything up to but not including index six in steps of three. This will print every two letters.
+print(parrot[0:6:3])
+
+# Two colons will print everything in a string starting at the index of the first number in steps defined by the second one. This can be useful for extracting specific information in a pattern.
+random_numbers = "9,223,372,036,854,775,807"
+print(random_numbers[1::4])
+numbers = "1, 2, 3, 4, 5, 6, 7, 8, 9"
+print(numbers[0::3])
+
+# String operators
+string1 = "He's "
+string2 = "probably "
+string3 = "pining"
+print(string1 + string2 + string3)
+
+# When using a string literal instead of variables, you don't need to use the plus sign operator. While this does work, it's not exactly practical.
+print("He's " "probably " "pining")
+
+# Multiplication of strings
+print("Hello " * 5)
