@@ -2,9 +2,9 @@
 
 https://www.udemy.com/course/python-the-complete-python-developer-course/
 
-### Watching video #29. Variables Part 2
+### Watching video #30. String Formatting - Displaying Numbers and Strings
 
-### Current timestamp - 00:09:55
+### Current timestamp - 00:00:00
 
 ## Notes
 

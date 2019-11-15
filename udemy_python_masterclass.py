@@ -135,3 +135,11 @@ print("He's " "probably " "pining")
 
 # Multiplication of strings
 print("Hello " * 5)
+print("Hello " * (5 + 4))
+print("Hello " * 5 + "4")
+
+today = "thursday"
+print("day" in today)
+print("thurs" in today)
+print("fri" in today)
+print("parrot" in "fjord")
