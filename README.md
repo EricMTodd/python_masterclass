@@ -2,6 +2,6 @@
 
 https://www.udemy.com/course/python-the-complete-python-developer-course/
 
-### Watching video #15. String Formatting - Our First Python Program
+### Watching video #18. The Escape Character
 
-### Current timestamp - 00:04:38
+### Current timestamp - 00:00:00
