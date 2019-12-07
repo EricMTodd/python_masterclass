@@ -2,7 +2,7 @@
 
 https://www.udemy.com/course/python-the-complete-python-developer-course/
 
-### Watching video #21. Python is a strongly typed language
+### Watching video #22. Numeric Data Types in Python
 
 ### Current timestamp - 00:00:00
 
