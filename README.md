@@ -2,7 +2,7 @@
 
 https://www.udemy.com/course/python-the-complete-python-developer-course/
 
-### Watching video #24. Expressions
+### Watching video #25. Operator Precedence
 
 ### Current timestamp - 00:00:00
 
