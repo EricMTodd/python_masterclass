@@ -2,7 +2,7 @@
 
 https://www.udemy.com/course/python-the-complete-python-developer-course/
 
-### Watching video #27. Negative Indexing Strings
+### Watching video #28. Slicing
 
 ### Current timestamp - 00:00:00
 
