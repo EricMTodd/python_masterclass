@@ -2,7 +2,7 @@
 
 https://www.udemy.com/course/python-the-complete-python-developer-course/
 
-### Watching video #26. The str String Data Type
+### Watching video #27. Negative Indexing Strings
 
 ### Current timestamp - 00:00:00
 
