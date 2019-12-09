@@ -2,7 +2,7 @@
 
 https://www.udemy.com/course/python-the-complete-python-developer-course/
 
-### Watching video #25. Operator Precedence
+### Watching video #26. The str String Data Type
 
 ### Current timestamp - 00:00:00
 

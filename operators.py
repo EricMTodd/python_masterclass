@@ -17,3 +17,19 @@ bun_price = 2.40
 money = 15
 
 print(money // bun_price)
+
+print()
+
+print(a + b / 3 - 4 * 12)  # -35.0
+print(a + (b / 3) - (4 * 12))  # -35.0
+print((((a + b) / 3) - 4) * 12)  # 12
+print(((a + b) / 3 - 4) * 12)  # 12
+
+c = a + b
+d = c / 3
+e = d - 4
+print(e * 12)  # 12
+
+print()
+
+print(a / (b * a) / b)  # 0.1111111111111111
