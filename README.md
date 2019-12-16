@@ -2,7 +2,7 @@
 
 https://www.udemy.com/course/python-the-complete-python-developer-course/
 
-### Watching video #28. Slicing
+### Watching video #34. String Replacement Fields
 
 ### Current timestamp - 00:00:00
 
