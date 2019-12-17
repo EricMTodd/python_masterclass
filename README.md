@@ -4,7 +4,7 @@ https://www.udemy.com/course/python-the-complete-python-developer-course/
 
 ### Watching video #42. Test Conditions With if, Elif, & Else
 
-### Current timestamp - 00:00:00
+### Current timestamp - 00:04:00
 
 Python variables names must begin witha letter (either upper or lower case) or an underscore \_ character
 
