@@ -2,7 +2,7 @@
 
 https://www.udemy.com/course/python-the-complete-python-developer-course/
 
-### Watching video #35. String Formatting
+### Watching video #36. f-strings
 
 ### Current timestamp - 00:00:00
 
