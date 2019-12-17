@@ -2,7 +2,7 @@
 
 https://www.udemy.com/course/python-the-complete-python-developer-course/
 
-### Watching video #38. Section Summary
+### Watching video #42. Test Conditions With if, Elif, & Else
 
 ### Current timestamp - 00:00:00
 
