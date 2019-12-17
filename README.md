@@ -2,7 +2,7 @@
 
 https://www.udemy.com/course/python-the-complete-python-developer-course/
 
-### Watching video #36. f-strings
+### Watching video #37. Python-2 String Interpolation
 
 ### Current timestamp - 00:00:00
 
