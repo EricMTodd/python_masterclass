@@ -1,4 +1,4 @@
-# udemy_python_masterclass
+# python_masterclass
 
 https://www.udemy.com/course/python-the-complete-python-developer-course/
 
